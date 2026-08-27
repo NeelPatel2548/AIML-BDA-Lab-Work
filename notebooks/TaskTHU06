@@ -1,39 +1,39 @@
-Write the code for the following
+# Write the code for the following
 
-1. Let's iterate from 0 to 200 and return the odd numbers
-
- 
-
-2. Write code using lambda function that takes in three parameters and
-
-   adds the first two.
+# 1. Let's iterate from 0 to 200 and return the odd numbers
 
  
 
-3. Write your own program to show the use of lambda functions
+# 2. Write code using lambda function that takes in three parameters and
+
+#    adds the first two.
 
  
 
-4. Program to double each item in a list using map()
+# 3. Write your own program to show the use of lambda functions
 
-5. Implementation of the quicksort algorithm in Python. [3,6,8,10,1,2,1]
+ 
 
-6. computes square numbers using mapping function/ lambda function
+# 4. Program to double each item in a list using map()
 
-7. Compute square of numbers using list comprehension technique.
+# 5. Implementation of the quicksort algorithm in Python. [3,6,8,10,1,2,1]
 
-8. Compute square of even numbers using  using list comprehension technique.
+# 6. computes square numbers using mapping function/ lambda function
 
-9. 5. Explain the following code:
+# 7. Compute square of numbers using list comprehension technique.
 
-  d = {'person': 2, 'cat': 4, 'spider': 8}
+# 8. Compute square of even numbers using  using list comprehension technique.
 
-  for animal in d:
+# 9. 5. Explain the following code:
 
-        legs = d[animal]
+#   d = {'person': 2, 'cat': 4, 'spider': 8}
 
-        print('A %s has %d legs' % (animal, legs))
+#   for animal in d:
 
-'''
+#         legs = d[animal]
+
+#         print('A %s has %d legs' % (animal, legs))
+
+# '''
 
  
